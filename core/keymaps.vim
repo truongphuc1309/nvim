@@ -35,7 +35,7 @@ nnoremap <leader>fg :Rg<CR>
 nnoremap <silent> <S-l> <Plug>lightline#bufferline#go_next()
 nnoremap <silent> <S-h> <Plug>lightline#bufferline#go_previous()
 nnoremap <silent> <leader>to :tabnew<CR> 
-nnoremap <silent> <leader>tx :bdelete<CR> 
+nnoremap <silent> <leader>tx :Bdelete<CR> 
 
 nmap <Leader>1 <Plug>lightline#bufferline#go(1)
 nmap <Leader>2 <Plug>lightline#bufferline#go(2)

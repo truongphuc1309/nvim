@@ -25,4 +25,5 @@ Plug 'dracula/vim', { 'as': 'dracula' }
   Plug 'sheerun/vim-polyglot'
   Plug 'christoomey/vim-tmux-navigator'
   Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+  Plug 'famiu/bufdelete.nvim'
 call plug#end()
